@@ -10,7 +10,6 @@
 body {
     background-color: white;
     font-family: 'Roboto', sans-serif;
-    
     min-height: 100vh;
     
 }
@@ -158,4 +157,59 @@ ul {
     font-size: 20px;
     align-self: flex-end;
     
+}
+
+
+.section4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+.signUpContainer {
+    background-color: #3882F6;
+    display: flex;
+    gap: 90px;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    border-radius: 10px;
+    width: 800px;
+    
+    
+}
+
+.CalltoAction {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.CtAsubtext {
+    color: white;
+}
+
+.signUpContainer button {
+    background: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 8px 32px;
+  border-radius: 8px;
+  align-self: center;
+  
+    
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+}
+
+.footer p {
+    color: white;
 }
