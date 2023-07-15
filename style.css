@@ -90,3 +90,30 @@ ul {
   border-radius: 8px;
   align-self: start;
 }
+
+
+.section2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    margin: 40px;
+
+}
+
+.title {
+    text-align: center;
+    margin: 40px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    
+}
+
+.img-container {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 160px;
+    text-align: center;
+}
+
