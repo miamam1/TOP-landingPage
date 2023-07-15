@@ -17,7 +17,8 @@ body {
 .navbar {
     background-color: #1F2937;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 450px;
     align-items: center;
     padding: 10px;
     
@@ -57,7 +58,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 25px;
+    gap: 50px;
 
 }
 
